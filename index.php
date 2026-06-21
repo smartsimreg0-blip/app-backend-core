@@ -27,6 +27,7 @@ $siteName        = "APK & Mobile App Guide";
 <meta name="twitter:title" content="Backend Architecture Behind Mobile Streaming Applications">
 <meta name="twitter:description" content="CDNs, adaptive bitrate streaming, and microservices — how streaming apps actually work behind the scenes.">
   <meta name="google-site-verification" content="rZVDKryZxdwUDDXJgds4gWUSahsMyFpBdcswH9yt2_Y" />
+  
 
 <script type="application/ld+json">
 {
